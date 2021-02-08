@@ -1,0 +1,10 @@
+C:\Users\Fortec\source\repos\exemploo\exemploo\bin\Debug\exemploo.exe.config
+C:\Users\Fortec\source\repos\exemploo\exemploo\bin\Debug\exemploo.exe
+C:\Users\Fortec\source\repos\exemploo\exemploo\bin\Debug\exemploo.pdb
+C:\Users\Fortec\source\repos\exemploo\exemploo\obj\Debug\exemploo.csprojAssemblyReference.cache
+C:\Users\Fortec\source\repos\exemploo\exemploo\obj\Debug\exemploo.Form1.resources
+C:\Users\Fortec\source\repos\exemploo\exemploo\obj\Debug\exemploo.Properties.Resources.resources
+C:\Users\Fortec\source\repos\exemploo\exemploo\obj\Debug\exemploo.csproj.GenerateResource.cache
+C:\Users\Fortec\source\repos\exemploo\exemploo\obj\Debug\exemploo.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\source\repos\exemploo\exemploo\obj\Debug\exemploo.exe
+C:\Users\Fortec\source\repos\exemploo\exemploo\obj\Debug\exemploo.pdb
